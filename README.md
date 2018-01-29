@@ -1,6 +1,1 @@
-# hystrix-dynamic-config
-hystrix-dynamic-config
-
-
-
-hystrix 动态配置，将动态配置注入到zk节点中
+hystrix 动态配置，启动时将所以方法注解  动态配置注入到zk节点中，通过zk ui 修改配置参数，达到动态效果
